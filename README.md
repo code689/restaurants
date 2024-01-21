@@ -8,8 +8,9 @@
 
 # 安裝與執行步驟
 1. 打開你的 terminal 輸入cd 你指定的資料夾 
+>範例
 ```
-範例 cd D:/
+cd D:/
 ```
 1. Clone 此專案至本機電腦
 ```
@@ -22,5 +23,9 @@ npm i express-handlebars
 ```
 1. 執行程式
 ```
-npm run dev 或是 npm run start
+npm run dev
+```
+>或是
+```
+npm run start
 ```
