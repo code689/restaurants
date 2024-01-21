@@ -29,3 +29,4 @@ npm run dev
 ```
 npm run start
 ```
+>出現1st express server on http://localhost:3000就可以開啟網頁了
